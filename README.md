@@ -10,4 +10,4 @@ Features include:
 * Pathways Analysis: To determine which biological pathways are involved and how they are affected by the conditions studied.
 
 How to Use:
-* Simply clone this repository, install the necessary R packages listed, and run the scripts with your data to generate insightful visualizations and analyses. Detailed instructions and comments within the scripts will guide you through each step.
+* Simply clone this repository, install the necessary R packages listed, and run the script with your data to generate insightful visualizations and analyses. Detailed instructions and comments within the scripts will guide you through each step.
