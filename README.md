@@ -1,6 +1,6 @@
 # heartstemcells
 This repository contains a curated R script specifically designed for advanced visualizations and analyses in bioinformatics.
-* Features include:
+Features include:
 
 * Bar Charts: For straightforward visual comparisons of different data points.
 * PCA (Principal Component Analysis): To uncover patterns and identify clusters within complex datasets, thus enabling dimensionality reduction and intuitive display of sample relationships.
